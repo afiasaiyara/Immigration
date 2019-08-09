@@ -12,7 +12,7 @@ body{
   font-weight: normal;
 
   /* canvas */
-  background-color: CadetBlue;
+  background-color: white;
 
   /* spacing */
   margin: 0;
@@ -60,4 +60,11 @@ h1, h2, h3, {
   width: 560px;
   height: 315px;
   background-color: #C3C6AA;
+}
+
+header {
+  padding: 5px;
+  text-align: center;
+  font-size: 35px;
+  color: black;
 }
